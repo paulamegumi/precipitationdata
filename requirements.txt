@@ -1,0 +1,5 @@
+leafmap
+chr_persiann_util
+rasterio
+unidecode
+#verificar quais outros pacotes foram necessários para instalar o leafmap
